@@ -1,0 +1,3 @@
+line 1
+This is new line 2
+That's Line 3 new
